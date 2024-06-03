@@ -54,8 +54,7 @@ require_once 'db.php';
         <a href="index.php">Homepagina</a>
         <a href="cursussen.php">Cursussen</a>
         <a href="studenten.php">Studenten</a>
-        <a href="inschrijvingen.php">Inschrijvingen</a>
-        <a href="admin/logout.php">Logout</a>
+        <a href="logout.php">Logout</a>
     </nav>
 
     <div class="container">
